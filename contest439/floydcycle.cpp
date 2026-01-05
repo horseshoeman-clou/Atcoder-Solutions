@@ -1,8 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-
-int nextnum(int n)
-{
+ 
+int nextnum(int n){
 int sum=0;
 while(n>0)
 {
